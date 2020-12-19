@@ -111,14 +111,6 @@ Open up a browser and visit: http://127.0.0.1:8000/ , the you will see the blog.
 ## More configurations
 [More configurations details](/docs/config-en.md)
 
-## About the issues
 
-If you have any *question*, please use Issue or send problem descriptions to my email `liangliangyy#gmail.com`. I will reponse you as soon as possible. And, we recommend you to use Issue.
-
----
-## To Everyone 🙋‍♀️🙋‍♂️
-If this project helps you, please submit your site address [here](https://github.com/liangliangyy/DjangoBlog/issues/214) to let more people see it.
-
-Your reply will be the driving force for me to continue to update and maintain this project.
 
 🙏🙏🙏
